@@ -1,6 +1,6 @@
 Grupo 9 Programatic
 
-### Botacura outdoors :mount_fuji:
+# Botacura outdoors :mount_fuji:
 
 El presente proyecto consiste en el desarrollo de un sitio ecommerce enfocado en la venta de productos de indumentaria y accesorios para actividades al aire libre en la montaña.
 Se venderan productos de diferentes catogorias relacionadas al montañismo.
