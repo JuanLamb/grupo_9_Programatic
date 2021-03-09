@@ -40,7 +40,7 @@ El publico que busca captar el sitio es la comunidad de deportistas de montaña 
 
 **Maria Pia:**
 
-## Sitios web de interés:globe_with_meridians::
+## Sitios web de referencia:globe_with_meridians::
 - https://www.patagonia.com/home/ Principal inspiracion, carrousel de categorias, estética
 - https://www.montagneoutdoors.com.ar/ Filtro de productos, footer
 - https://sherpalife.cl Carrousel de ofertas, header en mobile
