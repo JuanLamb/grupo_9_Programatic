@@ -46,3 +46,6 @@ El publico que busca captar el sitio es la comunidad de deportistas de montaña 
 - https://sherpalife.cl Carrousel de ofertas, header en mobile
 - https://www.adidas.com.ar/ Header en mobile, estética
 - https://www.mercadolibre.com.ar/ Funcionalidades carrito de compras y ventana de producto
+- https://www.fravega.com/ Funcionalidad de coomparacion entre productos
+- https://www.lasportiva.com/en Estetica
+- https://www.muaa.com.ar/ Funcionalidad de efecto en imagen del producto al pasar el cursor
