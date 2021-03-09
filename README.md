@@ -26,9 +26,11 @@ Se venderan productos de diferentes categorias relacionadas al montañismo.
 - Cascos
 - Arneses
 
+## Publico
+
 El publico que busca captar el sitio es la comunidad de deportistas de montaña y consumidores de turismo-aventura en el territorio Argentino.
 
-El equipo esta conformado por 4 integrantes:
+## Equipo
 
 **Juan Cruz Lambrechts:** Lider del equipo. Recibido en Ingenieria en materiales, programa hace poco pero tiene muchas ganas de aprender mas.
 
