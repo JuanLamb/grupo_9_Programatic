@@ -30,10 +30,17 @@ El publico que busca captar el sitio es la comunidad de deportistas de montaña 
 
 El equipo esta conformado por 4 integrantes:
 
-**Juan Cruz Lambrechts:** Lider del equipo. Recibido de Ingenieria en materiales, programa hace poco pero tiene muchas ganas de aprender mas.
+**Juan Cruz Lambrechts:** Lider del equipo. Recibido en Ingenieria en materiales, programa hace poco pero tiene muchas ganas de aprender mas.
 
 **Nicolas Miguez:**
 
 **Nacho Correa:**
 
 **Maria Pia:**
+
+## Sitios web de interés:globe_with_meridians::
+- https://www.patagonia.com/home/ Principal inspiracion, carrousel de categorias, estética
+- https://www.montagneoutdoors.com.ar/ Filtro de productos, footer
+- https://sherpalife.cl Carrousel de ofertas, header en mobile
+- https://www.adidas.com.ar/ Header en mobile, estética
+- https://www.mercadolibre.com.ar/ Funcionalidades carrito de compras y ventana de producto
