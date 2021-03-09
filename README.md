@@ -1,11 +1,39 @@
 Grupo 9 Programatic
 
-Outdoor Gear Montañismo
+###Botacura outdoors :mount_fuji:
 
-El presente proyecto consiste en el desarrollo de un sitio ecommerce enfocado en la venta de productos de ropa y accesorios para actividades al aire libre en la montaña.
-Se venderan productos como calzado y abrigos impermeables. Articulos de acampe como carpas, bolsas de dormir y garrafas portatiles. Cuerdas, mosquetones y zapatillas de escalada. Guias de montañismo de diferentes localidades turisticas.
-Alimentos liofilizados.
-El sitio podria publicitar gimnasios y clubes orientados al montañismo.
+El presente proyecto consiste en el desarrollo de un sitio ecommerce enfocado en la venta de productos de indumentaria y accesorios para actividades al aire libre en la montaña.
+Se venderan productos de diferentes catogorias relacionadas al montañismo.
 
-El publico que busca captar el sitio es la comunidad de deportistas de montaña y consumidores de turismo-aventura local.
+##Alta montaña:mount_fuji::
+-calzado
+-abrigos
+-abrigos impermeables
+-Mochilas
 
+##Articulos de acampe:tent::
+-Carpas
+-Bolsas de dormir
+-Aislantes
+-Garrafas portatiles
+-Linternas
+
+##Escalada:sunrise_over_mountains::
+-Cuerdas
+-Mosquetones
+-Pedulas
+-Magnesio
+-Cascos
+-Arneses
+
+El publico que busca captar el sitio es la comunidad de deportistas de montaña y consumidores de turismo-aventura en el territorio Argentino.
+
+El equipo esta conformado por 4 integrantes:
+
+Juan Cruz Lambrechts: Lider del equipo. Recibido de Ingenieria en materiales, programa hace poco pero tiene muchas ganas de aprender mas.
+
+Nicolas Miguez:
+
+Nacho Correa:
+
+Maria Pia:
