@@ -30,10 +30,10 @@ El publico que busca captar el sitio es la comunidad de deportistas de montaña 
 
 El equipo esta conformado por 4 integrantes:
 
-Juan Cruz Lambrechts: Lider del equipo. Recibido de Ingenieria en materiales, programa hace poco pero tiene muchas ganas de aprender mas.
+### Juan Cruz Lambrechts: Lider del equipo. Recibido de Ingenieria en materiales, programa hace poco pero tiene muchas ganas de aprender mas.
 
-Nicolas Miguez:
+### Nicolas Miguez:
 
-Nacho Correa:
+### Nacho Correa:
 
-Maria Pia:
+### Maria Pia:
