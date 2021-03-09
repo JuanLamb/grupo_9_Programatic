@@ -32,7 +32,7 @@ El publico que busca captar el sitio es la comunidad de deportistas de montaña 
 
 ## Equipo
 
-**Juan Cruz Lambrechts:** Lider del equipo. Recibido en Ingenieria en materiales, programa hace poco pero tiene muchas ganas de aprender mas.
+**Juan Cruz Lambrechts:** Lider del equipo. Recibido en Ingenieria en materiales en la UNLP y aficionado de la micologia. Programa hace poco pero tiene muchas ganas de aprender mas.
 
 **Nicolas Miguez:**
 
