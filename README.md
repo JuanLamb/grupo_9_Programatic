@@ -34,7 +34,7 @@ El equipo esta conformado por 4 integrantes:
 
 **Nicolas Miguez:**
 
-**Nacho Correa:**
+**Ignacio Correa:**
 
 **Maria Pia:**
 
