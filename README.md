@@ -34,7 +34,7 @@ El publico que busca captar el sitio es la comunidad de deportistas de montaña 
 
 **Juan Cruz Lambrechts:** Lider del equipo. Recibido en Ingenieria en materiales en la UNLP y aficionado de la micologia. Programa hace poco pero tiene muchas ganas de aprender mas.
 
-**Nicolas Miguez:**
+**Nicolas Miguez:** Parte del equipo Programatic. Estudiante de Lic. en Artes Electronicas en la UNTREF y músico experimentador sonoro y visual. Pragama hace menos de 1 año con habilidades básicas mas enfocadas al desarrollo de proyecciones visuales y con ganas de aprender mas para expandir su conocimiento en el rubro.
 
 **Ignacio Correa:**
 
