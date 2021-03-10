@@ -36,7 +36,7 @@ El publico que busca captar el sitio es la comunidad de deportistas de montaña 
 
 **Nicolas Miguez:** Parte del equipo Programatic. Estudiante de Lic. en Artes Electronicas en la UNTREF y músico experimentador sonoro y visual. Pragama hace menos de 1 año con habilidades básicas mas enfocadas al desarrollo de proyecciones visuales y con ganas de aprender mas para expandir su conocimiento en el rubro.
 
-**Ignacio Correa:**
+**Ignacio Correa:** Miembro del equipo Programatic. Transcursa el último año se secundaria. Le apasionan los videojuegos. Le gusta la programación y planea poder vivir de esto.
 
 **Maria Pia:**
 
