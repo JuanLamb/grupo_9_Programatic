@@ -38,7 +38,7 @@ El publico que busca captar el sitio es la comunidad de deportistas de montaña 
 
 **Ignacio Correa:** Miembro del equipo Programatic. Transcursa el último año se secundaria. Le apasionan los videojuegos. Le gusta la programación y planea poder vivir de esto.
 
-**Maria Pia:**
+**Maria Pia:** Unico miembro femenino del equipo Programatic. Administrativa/contable de una empresa que distribuye energia electrica. Aprendiendo a programar desde 0. Me gusta leer, viajar y escuchar música. 
 
 ## Sitios web de referencia:globe_with_meridians::
 - https://www.patagonia.com/home/ Principal inspiracion, carrousel de categorias, estética
