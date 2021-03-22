@@ -1,0 +1,26 @@
+{
+  "name": "grupo_9_Programatic",
+  "version": "1.0.0",
+  "description": "Grupo 9 Programatic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanLamb/grupo_9_Programatic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanLamb/grupo_9_Programatic/issues"
+  },
+  "homepage": "https://github.com/JuanLamb/grupo_9_Programatic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
