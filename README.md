@@ -53,4 +53,4 @@ El publico que busca captar el sitio es la comunidad de deportistas de montaña 
 
 ## Tablero de trabajo:pushpin::
 
--https://trello.com/b/3xSdFWir/proyecto-botacura
+- https://trello.com/b/3xSdFWir/proyecto-botacura
