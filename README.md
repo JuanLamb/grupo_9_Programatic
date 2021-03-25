@@ -49,3 +49,8 @@ El publico que busca captar el sitio es la comunidad de deportistas de montaña 
 - https://www.fravega.com/ Funcionalidad de comparacion entre productos
 - https://www.lasportiva.com/en Estetica
 - https://www.muaa.com.ar/ Funcionalidad de efecto en imagen del producto al pasar el cursor
+
+
+## Tablero de trabajo:pushpin::
+
+-https://trello.com/b/3xSdFWir/proyecto-botacura
