@@ -1,36 +1,38 @@
-#STYLESHEET
+# STYLESHEET
 
 Definir clases en funcion del archivo html en que se trabaja
 ejemplo:
 
--.article-carrito
--.article-home
+- .article-carrito
+- .article-home
 
-###Dividir cada seccion del css (para cada html) con comentarios.
+### Dividir cada seccion del css (para cada html) con comentarios.
 
-##COLORES
+## COLORES
 
-https://colorhunt.co/palette/265073
+- https://colorhunt.co/palette/265073
 
-###HEADER: #3a6351
+### HEADER: #3a6351
 
-###BODY: #f2edd7
+### BODY: #f2edd7
 
-###DETALLES: #e48257
+### DETALLES: #e48257
 
-###FOOTER: #393232
+### FOOTER: #393232
 
 
-##TIPOGRAFIAS
+## TIPOGRAFIAS
 
--Tamaños Tipográficos
--Cuerpos de texto: 12px
--Titulares: 24px
--Precios: 18px
--Descripciones: 16px
+- Tamaños Tipográficos
+- Cuerpos de texto: 12px
+- Titulares: 24px
+- Precios: 18px
+- Descripciones: 16px
 
-###BODY: https://fonts.google.com/specimen/Titillium+Web?preview.text=Botacura&preview.text_type=custom#standard-styles
+### BODY: 
 
-##LOGOS
+- https://fonts.google.com/specimen/Titillium+Web?preview.text=Botacura&preview.text_type=custom#standard-styles
 
-https://fontawesome.com/icons?d=gallery&p=2&m=free
+## LOGOS
+
+- https://fontawesome.com/icons?d=gallery&p=2&m=free
