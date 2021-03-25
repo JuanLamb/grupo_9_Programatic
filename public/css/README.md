@@ -1,1 +1,0 @@
-Este readme se eliminara mas tarde

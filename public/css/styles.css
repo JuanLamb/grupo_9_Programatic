@@ -4,10 +4,60 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
 
 /* =========================== HOME =========================== */
+.header-home{
+    background-color: #3a6351;
+    width: 100vw;
+    border-bottom: solid 5px #e48257;
+}
 
+.header-home section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
+.header-home img {
+    width: 70px;
+}
+
+.header-home .bars {
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding-left:20px;
+}
+
+.header-home .main-nav{
+    width: 100px;
+    padding-right: 10px;
+}
+
+.header-home .right-navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.header-home .right-navbar i{
+    font-size: 20px;
+}
+
+.header-home a{
+    text-decoration: none;
+    color: #000;
+}
+
+.header-home .central-navbar {
+    display: none;
+}
 /* =========================== PRODUCTO =========================== */
 
 
