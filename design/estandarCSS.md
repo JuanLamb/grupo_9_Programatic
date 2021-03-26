@@ -12,13 +12,13 @@ ejemplo:
 
 - https://colorhunt.co/palette/265073
 
-### HEADER: #3a6351
+### VERDE: #3a6351
 
-### BODY: #f2edd7
+### BLANCO: #f2edd7
 
-### DETALLES: #e48257
+### NARANJA: #e48257
 
-### FOOTER: #393232
+### MARRON: #393232
 
 
 ## TIPOGRAFIAS
